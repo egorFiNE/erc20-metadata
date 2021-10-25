@@ -1,0 +1,26 @@
+{
+  "name": "erc20-metadata",
+  "version": "0.0.1",
+  "description": "Quick load of ERC20 metadata",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egorFiNE/erc20-metadata.git"
+  },
+  "keywords": [
+    "erc20",
+    "ethereum",
+    "defi",
+    "blockchain",
+    "trc20",
+    "bep20",
+    "eth",
+    "token"
+  ],
+  "author": "Egor Egorov <me@egorfine.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egorFiNE/erc20-metadata/issues"
+  },
+  "homepage": "https://github.com/egorFiNE/erc20-metadata"
+}
