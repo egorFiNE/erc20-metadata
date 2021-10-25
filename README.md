@@ -5,7 +5,7 @@ Simple on-chain lookup of `name`, `symbol` and `decimals`. Supports both backend
 # Usage with web3
 
 ```javascript
-import ERC20 from 'erc20-metadata';
+import { ERC20 } from 'erc20-metadata';
 
 // import web3, connect to provider,
 
