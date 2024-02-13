@@ -1,3 +1,7 @@
+# Deprecation notice
+
+Please use my slightly different [erc20lookup](https://github.com/egorFiNE/erc20lookup) lookup module that supports multitude of tokens via one single contract call with support of both ethers.js v5 and v6.
+
 # Quick loader of ERC20 token metadata
 
 Simple on-chain lookup of `name`, `symbol` and `decimals`. Supports both backend and frontend as well as web3 and ethers.js.
