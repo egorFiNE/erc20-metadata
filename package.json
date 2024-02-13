@@ -1,6 +1,6 @@
 {
   "name": "erc20-metadata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quick load of ERC20 metadata",
   "main": "index.js",
   "repository": {
